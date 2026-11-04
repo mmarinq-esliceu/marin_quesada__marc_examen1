@@ -33,11 +33,10 @@ margin-bottom: 20px;
 }
 
 article {
-/* ... el que ja hi havia ... */
-position: relative; /* el pare */
+position: relative; 
 }
 .nou {
-position: absolute; /* el fill */
+position: absolute; 
 bottom: 15px;
 left: 15px;
 }
